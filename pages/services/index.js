@@ -1,6 +1,6 @@
-import Header from '../components/Header'
-import Footer from '../components/Footer'
-import HeroSlider from '../components/HeroSlider'
+import Header from '../../components/Header'
+import Footer from '../../components/Footer'
+import HeroSlider from '../../components/HeroSlider'
 
 export default function Home() {
   return (
