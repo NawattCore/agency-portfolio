@@ -6,9 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint .",
-    "install": "npm install --legacy-peer-deps"
-  },
+    "lint": "eslint ."
+   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "autoprefixer": "^10.4.19",
