@@ -1,12 +1,12 @@
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
-import HeroSlider from '../../components/HeroSlider'
+import HeroSlider from '../../components/Hero'
 
 export default function Home() {
   return (
     <>
       <Header />
-      <HeroSlider />
+      <Hero />
       <main className='p-6'>
         {/* Your other content goes here */}
         <section className="py-16">
